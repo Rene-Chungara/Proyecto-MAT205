@@ -1,0 +1,20 @@
+F:\Documentos\Universidad\4. Metodos Numericos\MetodoMinCuadrado\MetodoMinCuadrado\bin\Debug\MetodoMinCuadrado.exe.config
+F:\Documentos\Universidad\4. Metodos Numericos\MetodoMinCuadrado\MetodoMinCuadrado\bin\Debug\MetodoMinCuadrado.exe
+F:\Documentos\Universidad\4. Metodos Numericos\MetodoMinCuadrado\MetodoMinCuadrado\bin\Debug\MetodoMinCuadrado.pdb
+F:\Documentos\Universidad\4. Metodos Numericos\MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.csproj.AssemblyReference.cache
+F:\Documentos\Universidad\4. Metodos Numericos\MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.Form1.resources
+F:\Documentos\Universidad\4. Metodos Numericos\MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.Properties.Resources.resources
+F:\Documentos\Universidad\4. Metodos Numericos\MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.csproj.GenerateResource.cache
+F:\Documentos\Universidad\4. Metodos Numericos\MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.csproj.CoreCompileInputs.cache
+F:\Documentos\Universidad\4. Metodos Numericos\MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.exe
+F:\Documentos\Universidad\4. Metodos Numericos\MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.pdb
+F:\Documentos\Universidad\4. Metodos Numericos\Codigo - MetodoMinCuadrado\MetodoMinCuadrado\bin\Debug\MetodoMinCuadrado.exe.config
+F:\Documentos\Universidad\4. Metodos Numericos\Codigo - MetodoMinCuadrado\MetodoMinCuadrado\bin\Debug\MetodoMinCuadrado.exe
+F:\Documentos\Universidad\4. Metodos Numericos\Codigo - MetodoMinCuadrado\MetodoMinCuadrado\bin\Debug\MetodoMinCuadrado.pdb
+F:\Documentos\Universidad\4. Metodos Numericos\Codigo - MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.csproj.AssemblyReference.cache
+F:\Documentos\Universidad\4. Metodos Numericos\Codigo - MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.Form1.resources
+F:\Documentos\Universidad\4. Metodos Numericos\Codigo - MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.Properties.Resources.resources
+F:\Documentos\Universidad\4. Metodos Numericos\Codigo - MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.csproj.GenerateResource.cache
+F:\Documentos\Universidad\4. Metodos Numericos\Codigo - MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.csproj.CoreCompileInputs.cache
+F:\Documentos\Universidad\4. Metodos Numericos\Codigo - MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.exe
+F:\Documentos\Universidad\4. Metodos Numericos\Codigo - MetodoMinCuadrado\MetodoMinCuadrado\obj\Debug\MetodoMinCuadrado.pdb
